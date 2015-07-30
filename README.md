@@ -1,4 +1,4 @@
-# Azure@SysAdminDay 2015
+# ACD@SysAdminDay 2015
 ==========
 
 <b>Materialien der Azure Community Deutschland für den SysAdminDay 2015</b>
